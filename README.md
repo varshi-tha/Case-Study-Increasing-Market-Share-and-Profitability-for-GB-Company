@@ -35,7 +35,7 @@ This project aims to improve the profitability and brand popularity of GB Compan
 
 3. Open the Jupyter Notebook for analysis:
    ```bash
-   jupyter notebook case_study_analysis.ipynb
+   jupyter notebook solution.ipynb
    ```
 
 ## Key Insights
